@@ -1,2 +1,2 @@
 # Websocket Sample
-The express.js Websocket Sample.
+The express.js Websocket sample.
