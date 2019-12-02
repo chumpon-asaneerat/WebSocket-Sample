@@ -1,7 +1,7 @@
 {
   "name": "websocket-sample",
   "version": "1.0.0",
-  "description": "The github express websocket sample",
+  "description": "The express.js websocket sample",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
